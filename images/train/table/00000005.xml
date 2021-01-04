@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1test_table</folder>
+	<filename>00000005.jpg</filename>
+	<path>C:\Users\HPuser\OneDrive\Documents\SEM3\AI\python fol\image\1test_table\00000005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>7</ymin>
+			<xmax>487</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

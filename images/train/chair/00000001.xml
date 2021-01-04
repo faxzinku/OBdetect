@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>00000001.jpg</filename>
+	<path>C:\Users\HPuser\OneDrive\Documents\SEM3\AI\python fol\image\chair\00000001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1126</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>40</ymin>
+			<xmax>1057</xmax>
+			<ymax>1434</ymax>
+		</bndbox>
+	</object>
+</annotation>
